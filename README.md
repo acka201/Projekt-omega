@@ -18,13 +18,14 @@ git clone https://github.com/your-github-username/logic-quest-game.git
 cd logic-quest-game
 open index.html
 ```
+You can find what you need in .txt files in "txt.zip". Please copy these files where is the .exe file.
 
 ## Screenshots
 
-![Start screen](screenshots/start_screen.png)  
+![Start screen](screenshots/3.jpeg)  
 *Start screen with difficulty options and sound toggle.*
 
-![Game in progress](screenshots/game_play.png)  
+![Game in progress](screenshots/1.jpeg)  
 *In-game view showing the puzzle grid and logic clues.*
 
 ## Project Structure
