@@ -22,10 +22,10 @@ You can find what you need in .txt files in "txt.zip". Please copy these files w
 
 ## Screenshots
 
-![Start screen](3.jpeg)  
+![Start screen] https://github.com/acka201/Projekt-omega/blob/main/3.jpg
 *Start screen with difficulty options and sound toggle.*
 
-![Game in progress](1.jpeg)  
+![Game in progress] https://github.com/acka201/Projekt-omega/blob/main/5.jpg
 *In-game view showing the puzzle grid and logic clues.*
 
 ## Project Structure
