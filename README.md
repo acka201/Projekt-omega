@@ -22,10 +22,10 @@ You can find what you need in .txt files in "txt.zip". Please copy these files w
 
 ## Screenshots
 
-![Start screen](screenshots/3.jpeg)  
+![Start screen](3.jpeg)  
 *Start screen with difficulty options and sound toggle.*
 
-![Game in progress](screenshots/1.jpeg)  
+![Game in progress](1.jpeg)  
 *In-game view showing the puzzle grid and logic clues.*
 
 ## Project Structure
