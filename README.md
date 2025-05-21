@@ -1,39 +1,30 @@
 # Logic Quest Game
 
-**Logic Quest** is a logic-based puzzle game written in JavaScript. It challenges players to navigate a path from the start to the goal using logical reasoning and grid-based clues.
+**Logic Quest** is a logic-based puzzle game written in F#. It challenges players to navigate a path from the start to the goal using logical reasoning and grid-based clues.
 
 ## Motivation
 
-This game was developed as a semester project to demonstrate JavaScript DOM manipulation, dynamic UI rendering, and logical game mechanics. The goal was to create an engaging logic game that works entirely in the browser without external dependencies.
+This game was developed as a semester project to demonstrate F#, Json logical game mechanics. The goal was to create an engaging logic game that in console.
 
 ## How to Run
 
 You can try the game live here:  
 👉 [**Play Logic Quest Game**](https://your-github-username.github.io/logic-quest-game/)
 
-Or, if you'd like to run it locally:
+Run it locally and enjoy.
 
-```bash
-git clone https://github.com/your-github-username/logic-quest-game.git
-cd logic-quest-game
-open index.html
-```
 You can find what you need in .txt files in "txt.zip". Please copy these files where is the .exe file.
 
 ## Screenshots
 
 ![Start screen] https://github.com/acka201/Projekt-omega/blob/main/3.jpg
-*Start screen with difficulty options and sound toggle.*
+*Start screen with difficulty options.*
 
 ![Game in progress] https://github.com/acka201/Projekt-omega/blob/main/5.jpg
-*In-game view showing the puzzle grid and logic clues.*
+*In-game view showing the quests.*
 
 ## Project Structure
 
-- `index.html` - Main HTML file  
-- `style.css` - Game styling  
-- `app.js` - Core game logic  
-- `assets/` - Contains sound files and images  
 - `screenshots/` - Contains images for README  
 
 ## Deployment
@@ -44,5 +35,3 @@ To deploy your own version:
 1. Fork or clone the repository.
 2. Set up GitHub Pages on the `main` branch.
 3. Add the `gh-pages.yml` GitHub Action to `.github/workflows/`.
-
-See [`IntelliLogo`'s `gh-pages.yml`](https://github.com/your-example/intellilogo/blob/main/.github/workflows/gh-pages.yml) as a reference.
